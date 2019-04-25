@@ -6,7 +6,7 @@ Partir de la resolución de la etapa 6.
 ## Consultas sobre las aves
 
 Realizar las modificaciones necesarias para que Pepita, Pepon y Pipa entiendan el mensaje `puedeVolar(unosKms)`, de acuerdo a estos criterios
-- **Pepita**: si su energía es >= 10 + `unosKms`.
+- **Pepita**: si su energía es >= 10 + `unosKms` .
 - **Pepon**: si su energía es >= 1 + `unosKms` * 0.5. 
 - **Pipa**: siempre puede volar, no importa cuanto se le pida 
 
